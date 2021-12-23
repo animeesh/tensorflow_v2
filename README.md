@@ -11,5 +11,5 @@ coco.txt
 ssd_mobilenet_v3_large_.pbtxt
 
 
-frozen_inference_graph.pd
+frozen_inference_graph.pb
 
